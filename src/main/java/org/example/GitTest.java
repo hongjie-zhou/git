@@ -6,5 +6,6 @@ public class GitTest {
         System.out.println("hellow git");
         System.out.println("hello");
         System.out.println("分支");
+        System.out.println("再次修改");
     }
 }
